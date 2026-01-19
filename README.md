@@ -1,4 +1,4 @@
-# 🔐 Secure Password Storage System (2025)
+# 🔐 Secure Password Storage System 
 
 ## 📌 Overview
 This project is a Python-based authentication system that securely stores user passwords using **SHA-256 hashing** instead of plaintext credentials. It demonstrates secure authentication flow and fundamental cybersecurity best practices.

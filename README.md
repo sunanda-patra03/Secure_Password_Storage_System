@@ -39,9 +39,13 @@ Secure-Password-Storage-System/
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/YOUR-USERNAME/Secure-Password-Storage-System.git
+
+2️⃣ Navigate to the Project Directory
 cd Secure-Password-Storage-System
+3️⃣ Run the Application
 python main.py
-🔐 Secure Password Storage System
+
+🔐 secure Password Storage System
 
 1. Register
 2. Login
